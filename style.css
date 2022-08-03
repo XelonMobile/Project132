@@ -1,0 +1,14 @@
+body
+{
+   text-align: center; 
+}
+
+h1{
+color:white;
+}
+.btn{
+    width: 230px;
+    height: 25px;
+    border-radius: 20px;
+    background: white;
+}
